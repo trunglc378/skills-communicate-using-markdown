@@ -8,3 +8,10 @@
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
 
 Hình ảnh con mèo à mà không phải một con gì đó 
+
+```
+Đây đại khái là một dạng comment trong code
+Đây là ví dụ về một ví dụ về khởi tạo git
+$ git init
+Đã khởi tạo kho lưu trữ Git trống trong /Users/skills/Projects/recipe-repository/.git/
+```
