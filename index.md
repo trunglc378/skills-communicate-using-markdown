@@ -15,3 +15,8 @@ Hình ảnh con mèo à mà không phải một con gì đó
 $ git init
 Đã khởi tạo kho lưu trữ Git trống trong /Users/skills/Projects/recipe-repository/.git/
 ```
+
+- [x] Turn on GitHub Pages
+- [x] Outline my portfolio
+- [ ] Introduce myself to the world
+- [x] Thêm ví dụ về checkbox
